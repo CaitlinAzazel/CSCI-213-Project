@@ -75,8 +75,7 @@
               "RelativeToolTip": "AnniesCatSanctuary\\Views\\DogListings.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T20:06:05.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T20:06:05.759Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "AnniesCatSanctuary\\Views\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T20:04:26.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T20:04:26.656Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "AnniesCatSanctuary\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T20:00:43.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T20:00:43.853Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "AnniesCatSanctuary\\Components\\Models\\Dog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T19:57:17.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T19:57:17.253Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "AnniesCatSanctuary\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T18:12:13.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T18:12:13.87Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "AnniesCatSanctuary\\Components\\Pages\\Shelters.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T18:09:49.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T18:09:49.905Z"
             }
           ]
         }

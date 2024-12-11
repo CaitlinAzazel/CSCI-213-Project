@@ -3,8 +3,9 @@
     "",
     "\\AnniesCatSanctuary",
     "\\AnniesCatSanctuary\\Components",
+    "\\AnniesCatSanctuary\\Controllers",
     "\\AnniesCatSanctuary\\Views"
   ],
-  "SelectedNode": "\\AnniesCatSanctuary\\Program.cs",
+  "SelectedNode": "\\AnniesCatSanctuary\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }

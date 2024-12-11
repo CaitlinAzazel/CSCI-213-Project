@@ -16,7 +16,7 @@ namespace CaitlinFrankAssignment3.Controllers
             var dogs = new List<Dog>
             {
                 new Dog { Name = "Navi", Breed = "Husky", Age = 2, Description = "Friendly, active, female" },
-                new Dog { Name = "Briggin", Breed = "Viszla", Age = 9, Description = "Curious and energetic male" }
+                new Dog { Name = "Briggin", Breed = "Viszla", Age = 9, Description = "Curious and energetic male" },
                 new Dog { nameof = "Ruso", Breed = "Golden Retriever", Age = 1, Description = "Energetic, exciteable, male, good with kids"}
             };
 
