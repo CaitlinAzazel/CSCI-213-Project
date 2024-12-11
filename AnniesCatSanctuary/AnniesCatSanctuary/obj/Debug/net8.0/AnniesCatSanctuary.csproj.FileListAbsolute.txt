@@ -87,3 +87,9 @@ C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\Ann
 C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AnniesCatSanctuary.props
 C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\bin\Debug\net8.0\AnniesCatSanctuary.deps.json
+C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\bin\Debug\net8.0\AnniesCatSanctuary.runtimeconfig.json
+C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\bin\Debug\net8.0\AnniesCatSanctuary.dll
+C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\bin\Debug\net8.0\AnniesCatSanctuary.pdb
+C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\AnniesCatSanctuary.genruntimeconfig.cache
+C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\ref\AnniesCatSanctuary.dll
