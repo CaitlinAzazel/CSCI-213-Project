@@ -1,24 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\rayann.vistada\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnniesCatSanctuary.bundle.scp.css",
-      "PackagePath": "staticwebassets\\AnniesCatSanctuary.bundle.scp.css"
+      "Id": "C:\\Users\\Caitl\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnniesCatSanctuary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AnniesCatSanctuary.p5yn59unwo.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\rayann.vistada\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Caitl\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\rayann.vistada\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Caitl\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\rayann.vistada\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Caitl\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\rayann.vistada\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Caitl\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AnniesCatSanctuary.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AnniesCatSanctuary.Microsoft.AspNetCore.StaticWebAssets.props",
