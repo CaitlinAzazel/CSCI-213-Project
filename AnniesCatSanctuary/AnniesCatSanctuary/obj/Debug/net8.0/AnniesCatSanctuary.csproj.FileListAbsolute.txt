@@ -98,3 +98,4 @@ C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSan
 C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\AnniesCatSanctuary.sourcelink.json
 C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\scopedcss\Components\Pages\Shelters.razor.rz.scp.css
 C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\bin\Debug\net8.0\libman.json
+C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\scopedcss\Components\Pages\Events.razor.rz.scp.css

@@ -33,6 +33,22 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\1.jpg",
+      "PackagePath": "staticwebassets\\cars\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\2.jpg",
+      "PackagePath": "staticwebassets\\cars\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\3.jpg",
+      "PackagePath": "staticwebassets\\cars\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\4.jpg",
+      "PackagePath": "staticwebassets\\cars\\4.jpg"
+    },
+    {
       "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },

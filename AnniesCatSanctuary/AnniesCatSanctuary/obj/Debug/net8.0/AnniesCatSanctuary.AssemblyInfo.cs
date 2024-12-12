@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnniesCatSanctuary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d167c41559ebaaa319491b458b0da92073afe365")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aec06fd7edc8dc4b2b199e0afa3843e9c47e683")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnniesCatSanctuary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnniesCatSanctuary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
