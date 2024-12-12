@@ -93,3 +93,8 @@ C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\Ann
 C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\bin\Debug\net8.0\AnniesCatSanctuary.pdb
 C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\AnniesCatSanctuary.genruntimeconfig.cache
 C:\Users\Caitl\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\ref\AnniesCatSanctuary.dll
+C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\AnniesCatSanctuary.RazorAssemblyInfo.cache
+C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\AnniesCatSanctuary.RazorAssemblyInfo.cs
+C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\AnniesCatSanctuary.sourcelink.json
+C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\scopedcss\Components\Pages\Shelters.razor.rz.scp.css
+C:\Users\orivi\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\bin\Debug\net8.0\libman.json
