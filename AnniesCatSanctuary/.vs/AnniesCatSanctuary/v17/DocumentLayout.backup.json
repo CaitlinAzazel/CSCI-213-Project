@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\",
+  "WorkspaceRootPath": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\orivi\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\components\\pages\\events.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\components\\pages\\events.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\orivi\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\components\\pages\\events.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\components\\pages\\events.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\orivi\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\components\\pages\\shelters.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\components\\pages\\shelters.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,57 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shelters.razor",
-              "DocumentMoniker": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Shelters.razor",
-              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Components\\Pages\\Shelters.razor",
-              "ToolTip": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Shelters.razor*",
-              "RelativeToolTip": "AnniesCatSanctuary\\Components\\Pages\\Shelters.razor*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T01:23:36.804Z",
+              "DocumentIndex": 0,
+              "Title": "Home.razor.css",
+              "DocumentMoniker": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Home.razor.css",
+              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Home.razor.css",
+              "RelativeToolTip": "AnniesCatSanctuary\\Components\\Pages\\Home.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-12T19:27:34.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Events.razor.css",
-              "DocumentMoniker": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Events.razor.css",
-              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Components\\Pages\\Events.razor.css",
-              "ToolTip": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Events.razor.css",
-              "RelativeToolTip": "AnniesCatSanctuary\\Components\\Pages\\Events.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-12T01:04:16.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Events.razor",
-              "DocumentMoniker": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Events.razor",
-              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Components\\Pages\\Events.razor",
-              "ToolTip": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Events.razor*",
-              "RelativeToolTip": "AnniesCatSanctuary\\Components\\Pages\\Events.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "AnniesCatSanctuary\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T00:56:29.318Z",
+              "WhenOpened": "2024-12-12T18:02:07.7Z",
               "EditorCaption": ""
             }
           ]

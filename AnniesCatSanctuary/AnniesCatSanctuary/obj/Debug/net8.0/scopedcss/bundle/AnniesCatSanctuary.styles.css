@@ -224,6 +224,20 @@ h1[b-cku4sp3i2y] {
 h2[b-cku4sp3i2y] {
     color: #6A1B9A;
 }
+/* _content/AnniesCatSanctuary/Components/Pages/Home.razor.rz.scp.css */
+div.scroll-container[b-nlgyhs6k5l] {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    max-width: 70rem;
+}
+
+    div.scroll-container img[b-nlgyhs6k5l] {
+        padding: 10px;
+        height: 500px;
+        box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+    }
 /* _content/AnniesCatSanctuary/Components/Pages/Shelters.razor.rz.scp.css */
 
 /**/

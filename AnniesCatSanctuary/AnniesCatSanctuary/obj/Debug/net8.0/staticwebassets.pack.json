@@ -1,55 +1,55 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnniesCatSanctuary.bundle.scp.css",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnniesCatSanctuary.bundle.scp.css",
       "PackagePath": "staticwebassets\\AnniesCatSanctuary.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\ShelterImages\\FurryWarrior.jpg",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\ShelterImages\\FurryWarrior.jpg",
       "PackagePath": "staticwebassets\\ShelterImages\\FurryWarrior.jpg"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\ShelterImages\\HopefulHearts.jpg",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\ShelterImages\\HopefulHearts.jpg",
       "PackagePath": "staticwebassets\\ShelterImages\\HopefulHearts.jpg"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\ShelterImages\\NewBegginings.jpg",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\ShelterImages\\NewBegginings.jpg",
       "PackagePath": "staticwebassets\\ShelterImages\\NewBegginings.jpg"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\app.css",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap-icons\\icons\\box2-heart-fill.svg",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap-icons\\icons\\box2-heart-fill.svg",
       "PackagePath": "staticwebassets\\bootstrap-icons\\icons\\box2-heart-fill.svg"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\1.jpg",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\1.jpg",
       "PackagePath": "staticwebassets\\cars\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\2.jpg",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\2.jpg",
       "PackagePath": "staticwebassets\\cars\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\3.jpg",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\3.jpg",
       "PackagePath": "staticwebassets\\cars\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\4.jpg",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\cars\\4.jpg",
       "PackagePath": "staticwebassets\\cars\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\orivi\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
