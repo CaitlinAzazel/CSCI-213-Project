@@ -1,0 +1,10 @@
+@model IEnumerable<MyProject.Models.Message>
+    <h2>Messages</h2>
+    <ul>
+        @foreach (var message in Model)
+    {
+        <li>@message.Subject - @message.Timestamp</li>
+    }
+    </ul>
+
+    <a href="@Url.Action("Create", "Messaging")">Create New Message</a>

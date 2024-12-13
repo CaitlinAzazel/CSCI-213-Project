@@ -4,8 +4,12 @@
     "\\AnniesCatSanctuary",
     "\\AnniesCatSanctuary\\Components",
     "\\AnniesCatSanctuary\\Controllers",
-    "\\AnniesCatSanctuary\\Views"
+    "\\AnniesCatSanctuary\\Data",
+    "\\AnniesCatSanctuary\\Models",
+    "\\AnniesCatSanctuary\\Views",
+    "\\AnniesCatSanctuary\\Views\\FAQ",
+    "\\AnniesCatSanctuary\\Views\\Messaging"
   ],
-  "SelectedNode": "\\AnniesCatSanctuary\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\AnniesCatSanctuary\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
