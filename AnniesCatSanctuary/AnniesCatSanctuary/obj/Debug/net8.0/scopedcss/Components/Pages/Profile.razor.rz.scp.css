@@ -1,0 +1,45 @@
+/* General Styles for Profile Page */
+body[b-3iy9edguvn] {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h3[b-3iy9edguvn] {
+    color: #555;
+}
+
+.profile-container[b-3iy9edguvn] {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+    .profile-container h3[b-3iy9edguvn] {
+        margin-bottom: 20px;
+    }
+
+.profile-info[b-3iy9edguvn] {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #fafafa;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+    .profile-info label[b-3iy9edguvn] {
+        font-weight: bold;
+    }
+
+    .profile-info p[b-3iy9edguvn] {
+        margin: 0;
+    }

@@ -1,4 +1,7 @@
+using AnniesCatSanctuary;
 using AnniesCatSanctuary.Components;
+using AnniesCatSanctuary.Services;
+using Microsoft.AspNetCore.Components.Web;
 
 var builder = WebApplication.CreateBuilder(args);
 

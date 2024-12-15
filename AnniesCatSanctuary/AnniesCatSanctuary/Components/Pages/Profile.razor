@@ -1,0 +1,70 @@
+﻿@page "/profile"
+@using AnniesCatSanctuary.Services
+@using AnniesCatSanctuary.Data
+@inject UserProfileService UserProfileService
+@inject UserProfileStorageService UserProfileStorageService
+@inject NavigationManager NavigationManager
+
+<h3>Edit Profile</h3>
+
+<EditForm Model="userProfile" OnValidSubmit="SaveProfile">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="firstName">First Name</label>
+        <InputText id="firstName" class="form-control" @bind-Value="userProfile.FirstName" />
+    </div>
+
+    <div class="form-group">
+        <label for="lastName">Last Name</label>
+        <InputText id="lastName" class="form-control" @bind-Value="userProfile.LastName" />
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email</label>
+        <InputText id="email" class="form-control" @bind-Value="userProfile.Email" />
+    </div>
+
+    <div class="form-group">
+        <label for="phone">Phone Number</label>
+        <InputText id="phone" class="form-control" @bind-Value="userProfile.Phone" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Profile</button>
+</EditForm>
+
+@code {
+    private UserProfile userProfile = new UserProfile();
+
+    // When the page is initialized, load the user profile from localStorage
+    protected override async Task OnInitializedAsync()
+    {
+        // Attempt to retrieve the profile from localStorage
+        userProfile = await UserProfileStorageService.GetProfileFromLocalStorage("userProfile");
+
+        // If no profile is found, you can initialize it with default values or leave it empty
+        if (userProfile == null)
+        {
+            userProfile = new UserProfile
+                {
+                    FirstName = "Guest",
+                    LastName = "User",
+                    Email = "guest@example.com"
+                };
+        }
+    }
+
+    // Save the profile to localStorage and optionally to the server
+    private async Task SaveProfile()
+    {
+        // Save the profile to localStorage
+        await UserProfileStorageService.SaveProfileToLocalStorage("userProfile", userProfile);
+
+        // Optionally, you can save it to the server
+        // await UserProfileService.SaveUserProfile(userProfile);
+
+        // Navigate to another page or stay on the same page (optional)
+        // NavigationManager.NavigateTo("/"); // Uncomment to navigate after saving
+    }
+}
