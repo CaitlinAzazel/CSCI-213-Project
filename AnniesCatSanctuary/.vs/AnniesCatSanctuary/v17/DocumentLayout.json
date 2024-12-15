@@ -7,28 +7,16 @@
       "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\components\\pages\\profile.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\components\\pages\\profile.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\services\\userprofilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\services\\userprofilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\services\\petfavoritesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\services\\petfavoritesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\anniescatsanctuary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\anniescatsanctuary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|c:\\users\\caden\\onedrive\\documents\\github\\csci-213-project\\anniescatsanctuary\\anniescatsanctuary\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B85B67A-4937-4297-BB18-1DF29DE2467D}|AnniesCatSanctuary\\AnniesCatSanctuary.csproj|solutionrelative:anniescatsanctuary\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +30,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PetFavoritesService.cs",
-              "DocumentMoniker": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Services\\PetFavoritesService.cs",
-              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Services\\PetFavoritesService.cs",
-              "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Services\\PetFavoritesService.cs",
-              "RelativeToolTip": "AnniesCatSanctuary\\Services\\PetFavoritesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:49:02.982Z",
+              "DocumentIndex": 1,
+              "Title": "AnniesCatSanctuary.csproj",
+              "DocumentMoniker": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\AnniesCatSanctuary.csproj",
+              "RelativeDocumentMoniker": "AnniesCatSanctuary\\AnniesCatSanctuary.csproj",
+              "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\AnniesCatSanctuary.csproj",
+              "RelativeToolTip": "AnniesCatSanctuary\\AnniesCatSanctuary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T17:46:18.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Profile.razor.css",
-              "DocumentMoniker": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Profile.razor.css",
-              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Components\\Pages\\Profile.razor.css",
-              "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Profile.razor.css",
-              "RelativeToolTip": "AnniesCatSanctuary\\Components\\Pages\\Profile.razor.css",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-15T17:44:57.131Z",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\App.razor",
+              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\App.razor",
+              "RelativeToolTip": "AnniesCatSanctuary\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T20:56:44.677Z",
               "EditorCaption": ""
             },
             {
@@ -74,7 +62,7 @@
               "RelativeDocumentMoniker": "AnniesCatSanctuary\\Program.cs",
               "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Program.cs",
               "RelativeToolTip": "AnniesCatSanctuary\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T17:50:06.162Z",
               "EditorCaption": ""
@@ -82,53 +70,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserProfileStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Services\\UserProfileStorageService.cs",
-              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Services\\UserProfileStorageService.cs",
-              "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Services\\UserProfileStorageService.cs",
-              "RelativeToolTip": "AnniesCatSanctuary\\Services\\UserProfileStorageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:49:59.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserProfileService.cs",
-              "DocumentMoniker": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Services\\UserProfileService.cs",
-              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Services\\UserProfileService.cs",
-              "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Services\\UserProfileService.cs",
-              "RelativeToolTip": "AnniesCatSanctuary\\Services\\UserProfileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T17:49:25.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Profile.razor",
-              "DocumentMoniker": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Profile.razor",
-              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Components\\Pages\\Profile.razor",
-              "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Pages\\Profile.razor",
-              "RelativeToolTip": "AnniesCatSanctuary\\Components\\Pages\\Profile.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AnniesCatSanctuary\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "AnniesCatSanctuary\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T17:44:34.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AnniesCatSanctuary",
-              "DocumentMoniker": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\AnniesCatSanctuary.csproj",
-              "RelativeDocumentMoniker": "AnniesCatSanctuary\\AnniesCatSanctuary.csproj",
-              "ToolTip": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\AnniesCatSanctuary.csproj",
-              "RelativeToolTip": "AnniesCatSanctuary\\AnniesCatSanctuary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-15T17:46:18.738Z",
+              "WhenOpened": "2024-12-15T18:17:59.928Z",
               "EditorCaption": ""
             }
           ]

@@ -6,65 +6,57 @@
 @inject NavigationManager NavigationManager
 
 <h3>Edit Profile</h3>
-
-<EditForm Model="userProfile" OnValidSubmit="SaveProfile">
+<EditForm Model="userProfile" OnValidSubmit="HandleValidSubmit" FormName="userProfileForm">
     <DataAnnotationsValidator />
     <ValidationSummary />
-
     <div class="form-group">
         <label for="firstName">First Name</label>
         <InputText id="firstName" class="form-control" @bind-Value="userProfile.FirstName" />
     </div>
-
     <div class="form-group">
         <label for="lastName">Last Name</label>
         <InputText id="lastName" class="form-control" @bind-Value="userProfile.LastName" />
     </div>
-
     <div class="form-group">
         <label for="email">Email</label>
         <InputText id="email" class="form-control" @bind-Value="userProfile.Email" />
     </div>
-
     <div class="form-group">
         <label for="phone">Phone Number</label>
         <InputText id="phone" class="form-control" @bind-Value="userProfile.Phone" />
     </div>
-
     <button type="submit" class="btn btn-primary">Save Profile</button>
 </EditForm>
 
 @code {
     private UserProfile userProfile = new UserProfile();
+    private bool isClient = false; // Track if we are on the client
 
-    // When the page is initialized, load the user profile from localStorage
-    protected override async Task OnInitializedAsync()
+    protected override async Task OnAfterRenderAsync(bool firstRender)
     {
-        // Attempt to retrieve the profile from localStorage
-        userProfile = await UserProfileStorageService.GetProfileFromLocalStorage("userProfile");
-
-        // If no profile is found, you can initialize it with default values or leave it empty
-        if (userProfile == null)
+        if (firstRender)
         {
-            userProfile = new UserProfile
+            // Load the profile from localStorage after the component has rendered
+            var profile = await UserProfileStorageService.GetProfileFromLocalStorage("userProfile");
+            userProfile = profile ?? new UserProfile
                 {
                     FirstName = "Guest",
                     LastName = "User",
                     Email = "guest@example.com"
                 };
+            isClient = true; // Set to true after loading the profile
+            StateHasChanged();  // Trigger a re-render to update the UI with profile data
         }
     }
 
-    // Save the profile to localStorage and optionally to the server
-    private async Task SaveProfile()
+    private async Task HandleValidSubmit()
     {
-        // Save the profile to localStorage
-        await UserProfileStorageService.SaveProfileToLocalStorage("userProfile", userProfile);
-
-        // Optionally, you can save it to the server
-        // await UserProfileService.SaveUserProfile(userProfile);
-
-        // Navigate to another page or stay on the same page (optional)
-        // NavigationManager.NavigateTo("/"); // Uncomment to navigate after saving
+        if (isClient) // Ensure we are on the client before calling JS interop
+        {
+            // Save the profile to localStorage
+            await UserProfileStorageService.SaveProfileToLocalStorage("userProfile", userProfile);
+            // Optionally provide feedback to the user
+            // For example, you could show a success message here
+        }
     }
 }

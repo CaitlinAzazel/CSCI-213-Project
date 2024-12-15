@@ -9,6 +9,17 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+builder.Services.AddScoped<UserProfileService>();
+builder.Services.AddScoped<UserProfileStorageService>();
+builder.Services.AddSingleton<PetManagementService>();
+builder.Services.AddSingleton<PetFavoritesService>();
+
+// Optional: Add HttpClient if required, for example:
+builder.Services.AddHttpClient("DefaultClient", client =>
+{
+    client.BaseAddress = new Uri(builder.Configuration["BaseAddress"] ?? "https://localhost:5001/");
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
