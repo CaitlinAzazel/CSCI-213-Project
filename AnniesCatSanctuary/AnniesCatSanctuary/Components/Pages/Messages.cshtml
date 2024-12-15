@@ -1,0 +1,28 @@
+@page
+@model AnniesCatSanctuary.Pages.MessagesModel
+
+<h1>Messages</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sender</th>
+            <th>Recipient</th>
+            <th>Subject</th>
+            <th>Content</th>
+            <th>Date Sent</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var message in Model.Messages)
+        {
+        <tr>
+            <td>@message.Sender</td>
+            <td>@message.Recipient</td>
+            <td>@message.Subject</td>
+            <td>@message.Content</td>
+            <td>@message.DateSent.ToString("g")</td>
+        </tr>
+        }
+    </tbody>
+</table>

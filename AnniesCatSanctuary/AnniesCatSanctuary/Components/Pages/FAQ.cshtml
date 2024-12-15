@@ -1,0 +1,14 @@
+@page
+@model AnniesCatSanctuary.Pages.FAQModel
+
+<h1>Frequently Asked Questions</h1>
+
+<div>
+    @foreach (var faq in Model.FAQs)
+    {
+    <div class="faq-item">
+        <h3>@faq.Question</h3>
+        <p>@faq.Answer</p>
+    </div>
+    }
+</div>
