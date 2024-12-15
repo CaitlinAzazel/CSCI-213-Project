@@ -1,0 +1,36 @@
+@page
+@model AnniesCatSanctuary.Pages.ManageFAQsModel
+
+<h1>Manage FAQs</h1>
+
+<h2>Add a New FAQ</h2>
+<form method="post">
+    <div class="mb-3">
+        <label for="Question" class="form-label">Question</label>
+        <input type="text" id="Question" name="NewFAQ.Question" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label for="Answer" class="form-label">Answer</label>
+        <textarea id="Answer" name="NewFAQ.Answer" class="form-control" rows="5" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Add FAQ</button>
+</form>
+
+<h2>Existing FAQs</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Question</th>
+            <th>Answer</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var faq in Model.FAQs)
+        {
+        <tr>
+            <td>@faq.Question</td>
+            <td>@faq.Answer</td>
+        </tr>
+        }
+    </tbody>
+</table>
