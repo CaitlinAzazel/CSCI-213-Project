@@ -32,6 +32,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Shelters.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaGVsdGVycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,38 +60,10 @@ build_metadata.AdditionalFiles.CssScope = b-w30s07r3bq
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-8umseqdyh2
 
-[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Events.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudHMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-cku4sp3i2y
-
-[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-nlgyhs6k5l
-
-[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Shelters.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaGVsdGVycy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-d1kydjm1x0
-
 [C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Views/DogListings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nTGlzdGluZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Views/FAQ/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRkFRXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Views/FAQ/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRkFRXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Views/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Views/Messaging/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnaW5nXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Caitl/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Views/Messaging/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnaW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
