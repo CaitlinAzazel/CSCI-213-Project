@@ -1,0 +1,56 @@
+/**/
+.pageheader[b-xdhxyu7j77] {
+    font-size: 2.5rem;
+    font-family: 'Times New Roman';
+    text-align: center;
+    padding: 10px;
+    font-weight: 1000;
+}
+
+/*Card building*/
+.card[b-xdhxyu7j77] {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.title[b-xdhxyu7j77] {
+    color: grey;
+    font-size: 18px;
+}
+
+button[b-xdhxyu7j77] {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+a[b-xdhxyu7j77] {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+    button:hover[b-xdhxyu7j77], a:hover[b-xdhxyu7j77] {
+        opacity: 0.7;
+    }
+
+
+/*For stacking things horizontally*/
+ul[b-xdhxyu7j77] {
+    list-style: none;
+    text-align: center;
+}
+
+li[b-xdhxyu7j77] {
+    display: inline-block;
+    margin-right: 20px;
+}

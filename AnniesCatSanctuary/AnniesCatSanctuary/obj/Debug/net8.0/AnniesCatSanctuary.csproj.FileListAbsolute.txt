@@ -140,3 +140,5 @@ C:\Users\Caden\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\Ann
 C:\Users\Caden\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\staticwebassets\msbuild.AnniesCatSanctuary.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\Caden\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Caden\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\scopedcss\Components\Pages\Profile.razor.rz.scp.css
+C:\Users\Caden\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\scopedcss\Components\Pages\PetListing.razor.rz.scp.css
+C:\Users\Caden\OneDrive\Documents\GitHub\CSCI-213-Project\AnniesCatSanctuary\AnniesCatSanctuary\obj\Debug\net8.0\scopedcss\Components\Pages\AdminPage.razor.rz.scp.css

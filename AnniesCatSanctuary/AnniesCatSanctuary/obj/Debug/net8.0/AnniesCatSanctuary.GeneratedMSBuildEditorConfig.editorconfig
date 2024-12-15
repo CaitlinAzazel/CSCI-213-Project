@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Favorites.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGYXZvcml0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +52,10 @@ build_metadata.AdditionalFiles.CssScope = b-w30s07r3bq
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-8umseqdyh2
 
+[C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/AdminPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bqorgame2h
+
 [C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Events.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cku4sp3i2y
@@ -56,6 +64,10 @@ build_metadata.AdditionalFiles.CssScope = b-cku4sp3i2y
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-nlgyhs6k5l
 
+[C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/PetListing.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXRMaXN0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-xdhxyu7j77
+
 [C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9maWxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-3iy9edguvn
@@ -63,6 +75,26 @@ build_metadata.AdditionalFiles.CssScope = b-3iy9edguvn
 [C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Shelters.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaGVsdGVycy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-d1kydjm1x0
+
+[C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/ManageFAQs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNYW5hZ2VGQVFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Messages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNZXNzYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/SendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZW5kTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Components/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Caden/OneDrive/Documents/GitHub/CSCI-213-Project/AnniesCatSanctuary/AnniesCatSanctuary/Views/DogListings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nTGlzdGluZ3MuY3NodG1s

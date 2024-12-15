@@ -1,0 +1,70 @@
+﻿@page "/admin"
+@using AnniesCatSanctuary.Services
+@using AnniesCatSanctuary.Data
+@inject PetManagementService PetManagementService
+
+<h3>Admin - Manage Pets</h3>
+
+<!-- Form to Add Pet -->
+<h4>Add a Pet</h4>
+<div>
+    <label for="petName">Pet Name</label>
+    <input type="text" id="petName" @bind="newPet.Name" />
+</div>
+<div>
+    <label for="petType">Pet Type</label>
+    <input type="text" id="petType" @bind="newPet.Type" />
+</div>
+<div>
+    <label for="petDescription">Pet Description</label>
+    <textarea id="petDescription" @bind="newPet.Description"></textarea>
+</div>
+<button @onclick="AddPet">Add Pet</button>
+
+<h4>Current Pet List</h4>
+<ul class="pet-listing">
+    @foreach (var pet in pets)
+    {
+        <li>
+            <div class="card">
+                <h1>@pet.Name</h1>
+                <p class="title">Type: @pet.Type</p>
+                <p>@pet.Description</p>
+                <p><button @onclick="() => RemovePet(pet)">Remove Pet</button></p>
+                <p><button @onclick="() => HidePet(pet)">Hide Pet</button></p>
+            </div>
+        </li>
+    }
+</ul>
+
+@code {
+    private List<Pet> pets = new List<Pet>();
+    private Pet newPet = new Pet();
+
+    protected override void OnInitialized()
+    {
+        pets = PetManagementService.GetPets(); // Load pets from service
+    }
+
+    private void AddPet()
+    {
+        if (!string.IsNullOrWhiteSpace(newPet.Name) && !string.IsNullOrWhiteSpace(newPet.Type))
+        {
+            PetManagementService.AddPet(newPet);
+            pets = PetManagementService.GetPets(); // Reload pet list
+            newPet = new Pet(); // Reset form
+        }
+    }
+
+    private void RemovePet(Pet pet)
+    {
+        PetManagementService.RemovePet(pet);
+        pets = PetManagementService.GetPets(); // Reload pet list
+    }
+
+    private void HidePet(Pet pet)
+    {
+        PetManagementService.HidePet(pet);
+        pets = PetManagementService.GetPets(); // Reload pet list
+    }
+}

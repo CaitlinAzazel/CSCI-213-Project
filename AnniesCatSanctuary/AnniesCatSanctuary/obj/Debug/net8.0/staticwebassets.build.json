@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ekfI9S59Mu71VLhlccYQ8JSSw/b3SXQf22u5ScL+UKY=",
+  "Hash": "XzV9XFH/ddnmHmZD79BWtiLOVuJf5l46GnuXFsQh0rQ=",
   "Source": "AnniesCatSanctuary",
   "BasePath": "_content/AnniesCatSanctuary",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "psezl0mi05",
-      "Integrity": "qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8=",
+      "Fingerprint": "v77k8aep1q",
+      "Integrity": "dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnniesCatSanctuary.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "psezl0mi05",
-      "Integrity": "qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8=",
+      "Fingerprint": "v77k8aep1q",
+      "Integrity": "dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnniesCatSanctuary.bundle.scp.css"
@@ -323,7 +323,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8919"
+          "Value": "12539"
         },
         {
           "Name": "Content-Type",
@@ -331,11 +331,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8=\""
+          "Value": "\"dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 18:04:23 GMT"
+          "Value": "Sun, 15 Dec 2024 21:36:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -345,97 +345,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8="
-        }
-      ]
-    },
-    {
-      "Route": "AnniesCatSanctuary.psezl0mi05.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnniesCatSanctuary.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8919"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 18:04:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "psezl0mi05"
-        },
-        {
-          "Name": "label",
-          "Value": "AnniesCatSanctuary.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8="
-        }
-      ]
-    },
-    {
-      "Route": "AnniesCatSanctuary.psezl0mi05.styles.css",
-      "AssetFile": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnniesCatSanctuary.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8919"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 18:04:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "psezl0mi05"
-        },
-        {
-          "Name": "label",
-          "Value": "AnniesCatSanctuary.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8="
+          "Value": "sha256-dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs="
         }
       ]
     },
@@ -450,7 +360,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8919"
+          "Value": "12539"
         },
         {
           "Name": "Content-Type",
@@ -458,11 +368,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8=\""
+          "Value": "\"dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 18:04:23 GMT"
+          "Value": "Sun, 15 Dec 2024 21:36:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -472,7 +382,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qUoTpnr/giNv9PfBaX4+o3mIMZ0aQEpE9oeUsDjNOt8="
+          "Value": "sha256-dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs="
+        }
+      ]
+    },
+    {
+      "Route": "AnniesCatSanctuary.v77k8aep1q.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnniesCatSanctuary.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 21:36:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v77k8aep1q"
+        },
+        {
+          "Name": "label",
+          "Value": "AnniesCatSanctuary.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs="
+        }
+      ]
+    },
+    {
+      "Route": "AnniesCatSanctuary.v77k8aep1q.styles.css",
+      "AssetFile": "C:\\Users\\Caden\\OneDrive\\Documents\\GitHub\\CSCI-213-Project\\AnniesCatSanctuary\\AnniesCatSanctuary\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnniesCatSanctuary.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 21:36:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v77k8aep1q"
+        },
+        {
+          "Name": "label",
+          "Value": "AnniesCatSanctuary.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs="
         }
       ]
     },

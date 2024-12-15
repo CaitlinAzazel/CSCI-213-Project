@@ -201,6 +201,119 @@ main[b-w30s07r3bq] {
         overflow-y: auto;
     }
 }
+/* _content/AnniesCatSanctuary/Components/Pages/AdminPage.razor.rz.scp.css */
+/* General Styles for Admin Page */
+body[b-bqorgame2h] {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+.container[b-bqorgame2h] {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h3[b-bqorgame2h], h4[b-bqorgame2h] {
+    color: #555;
+}
+
+/* Form Styles */
+form[b-bqorgame2h] {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+    form div[b-bqorgame2h] {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    form label[b-bqorgame2h] {
+        font-weight: bold;
+        color: #444;
+    }
+
+    form input[b-bqorgame2h], form textarea[b-bqorgame2h], form button[b-bqorgame2h] {
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 16px;
+    }
+
+    form button[b-bqorgame2h] {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        form button:hover[b-bqorgame2h] {
+            background-color: #0056b3;
+        }
+
+/* List of Pets */
+.pet-listing[b-bqorgame2h] {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+    .pet-listing li[b-bqorgame2h] {
+        flex: 1 1 calc(33.333% - 20px);
+        box-sizing: border-box;
+    }
+
+/* Card Style */
+.card[b-bqorgame2h] {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    transition: box-shadow 0.3s ease;
+}
+
+    .card:hover[b-bqorgame2h] {
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .card h1[b-bqorgame2h] {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .card p[b-bqorgame2h] {
+        margin: 5px 0;
+    }
+
+    .card button[b-bqorgame2h] {
+        background-color: #28a745;
+        color: white;
+        border: none;
+        padding: 10px 15px;
+        border-radius: 4px;
+        font-size: 14px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .card button:hover[b-bqorgame2h] {
+            background-color: #218838;
+        }
 /* _content/AnniesCatSanctuary/Components/Pages/Events.razor.rz.scp.css */
 div.scroll-container[b-cku4sp3i2y] {
     background-color: #333;
@@ -238,6 +351,63 @@ div.scroll-container[b-nlgyhs6k5l] {
         height: 500px;
         box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
     }
+/* _content/AnniesCatSanctuary/Components/Pages/PetListing.razor.rz.scp.css */
+/**/
+.pageheader[b-xdhxyu7j77] {
+    font-size: 2.5rem;
+    font-family: 'Times New Roman';
+    text-align: center;
+    padding: 10px;
+    font-weight: 1000;
+}
+
+/*Card building*/
+.card[b-xdhxyu7j77] {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.title[b-xdhxyu7j77] {
+    color: grey;
+    font-size: 18px;
+}
+
+button[b-xdhxyu7j77] {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+a[b-xdhxyu7j77] {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+    button:hover[b-xdhxyu7j77], a:hover[b-xdhxyu7j77] {
+        opacity: 0.7;
+    }
+
+
+/*For stacking things horizontally*/
+ul[b-xdhxyu7j77] {
+    list-style: none;
+    text-align: center;
+}
+
+li[b-xdhxyu7j77] {
+    display: inline-block;
+    margin-right: 20px;
+}
 /* _content/AnniesCatSanctuary/Components/Pages/Profile.razor.rz.scp.css */
 /* General Styles for Profile Page */
 body[b-3iy9edguvn] {

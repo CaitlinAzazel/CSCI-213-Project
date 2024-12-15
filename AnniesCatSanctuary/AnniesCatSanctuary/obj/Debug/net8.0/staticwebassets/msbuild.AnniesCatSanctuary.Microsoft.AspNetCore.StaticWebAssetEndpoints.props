@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
     <StaticWebAssetEndpoint Include="_content/AnniesCatSanctuary/AnniesCatSanctuary.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AnniesCatSanctuary.psezl0mi05.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AnniesCatSanctuary.v77k8aep1q.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qUoTpnr/giNv9PfBaX4\u002Bo3mIMZ0aQEpE9oeUsDjNOt8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8919"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qUoTpnr/giNv9PfBaX4\u002Bo3mIMZ0aQEpE9oeUsDjNOt8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 18:04:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12539"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 21:36:11 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/AnniesCatSanctuary/AnniesCatSanctuary.psezl0mi05.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AnniesCatSanctuary.psezl0mi05.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/AnniesCatSanctuary/AnniesCatSanctuary.v77k8aep1q.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AnniesCatSanctuary.v77k8aep1q.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"psezl0mi05"},{"Name":"integrity","Value":"sha256-qUoTpnr/giNv9PfBaX4\u002Bo3mIMZ0aQEpE9oeUsDjNOt8="},{"Name":"label","Value":"_content/AnniesCatSanctuary/AnniesCatSanctuary.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8919"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022qUoTpnr/giNv9PfBaX4\u002Bo3mIMZ0aQEpE9oeUsDjNOt8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 18:04:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v77k8aep1q"},{"Name":"integrity","Value":"sha256-dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs="},{"Name":"label","Value":"_content/AnniesCatSanctuary/AnniesCatSanctuary.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12539"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 21:36:11 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AnniesCatSanctuary/app.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
