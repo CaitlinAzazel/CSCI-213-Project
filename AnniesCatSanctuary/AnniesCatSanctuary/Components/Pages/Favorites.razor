@@ -6,11 +6,15 @@
 
 <h3>Favorite Pets</h3>
 
-<ul>
+<ul class="pet-listing">
     @foreach (var pet in pets.Where(p => favoritePets.Contains(p.Name)))
     {
         <li>
-            <strong>@pet.Name</strong> - @pet.Type
+            <div class="card">
+                <h1>@pet.Name</h1>
+                <p class="title">Type: @pet.Type</p>
+                <p>@pet.Description</p>
+            </div>
         </li>
     }
 </ul>
@@ -21,7 +25,7 @@
 
     protected override void OnInitialized()
     {
-        pets = PetManagementService.GetPets();
-        favoritePets = PetFavoritesService.GetFavoritePets();
+        pets = PetManagementService.GetPets(); // Load pets from in-memory service
+        favoritePets = PetFavoritesService.GetFavoritePets(); // Load favorite pets from in-memory service
     }
 }

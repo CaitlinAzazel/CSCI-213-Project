@@ -1,25 +1,30 @@
-﻿using System.Collections.Generic;
-
-namespace AnniesCatSanctuary.Services
+﻿namespace AnniesCatSanctuary.Services
 {
     public class PetFavoritesService
     {
-        private List<string> favoritePetNames = new List<string>();
+        private readonly List<string> _favoritePetNames; // In-memory list of favorite pet names
 
-        public List<string> GetFavoritePets()
+        public PetFavoritesService()
         {
-            return favoritePetNames;
+            _favoritePetNames = new List<string>(); // Initialize the favorites list
         }
 
+        // Get the list of favorite pet names
+        public List<string> GetFavoritePets()
+        {
+            return _favoritePetNames;
+        }
+
+        // Toggle favorite status for a pet
         public void ToggleFavorite(string petName)
         {
-            if (favoritePetNames.Contains(petName))
+            if (_favoritePetNames.Contains(petName))
             {
-                favoritePetNames.Remove(petName);
+                _favoritePetNames.Remove(petName);  // Remove from favorites
             }
             else
             {
-                favoritePetNames.Add(petName);
+                _favoritePetNames.Add(petName);  // Add to favorites
             }
         }
     }

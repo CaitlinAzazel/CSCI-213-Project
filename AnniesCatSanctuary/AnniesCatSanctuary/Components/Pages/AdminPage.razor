@@ -5,6 +5,7 @@
 
 <h3>Admin - Manage Pets</h3>
 
+<!-- Form to Add Pet -->
 <h4>Add a Pet</h4>
 <div>
     <label for="petName">Pet Name</label>
@@ -21,13 +22,17 @@
 <button @onclick="AddPet">Add Pet</button>
 
 <h4>Current Pet List</h4>
-<ul>
+<ul class="pet-listing">
     @foreach (var pet in pets)
     {
         <li>
-            <strong>@pet.Name</strong> - @pet.Type
-            <button @onclick="() => RemovePet(pet)">Remove</button>
-            <button @onclick="() => HidePet(pet)">Hide</button>
+            <div class="card">
+                <h1>@pet.Name</h1>
+                <p class="title">Type: @pet.Type</p>
+                <p>@pet.Description</p>
+                <p><button @onclick="() => RemovePet(pet)">Remove Pet</button></p>
+                <p><button @onclick="() => HidePet(pet)">Hide Pet</button></p>
+            </div>
         </li>
     }
 </ul>
@@ -38,28 +43,28 @@
 
     protected override void OnInitialized()
     {
-        pets = PetManagementService.GetPets();
+        pets = PetManagementService.GetPets(); // Load pets from in-memory service
     }
 
     private void AddPet()
     {
         if (!string.IsNullOrWhiteSpace(newPet.Name) && !string.IsNullOrWhiteSpace(newPet.Type))
         {
-            PetManagementService.AddPet(newPet);
-            pets = PetManagementService.GetPets();
-            newPet = new Pet();
+            PetManagementService.AddPet(newPet); // Add pet to in-memory list
+            pets = PetManagementService.GetPets(); // Reload pet list
+            newPet = new Pet(); // Reset form
         }
     }
 
     private void RemovePet(Pet pet)
     {
-        PetManagementService.RemovePet(pet);
-        pets = PetManagementService.GetPets();
+        PetManagementService.RemovePet(pet); // Remove pet from in-memory list
+        pets = PetManagementService.GetPets(); // Reload pet list
     }
 
     private void HidePet(Pet pet)
     {
-        PetManagementService.HidePet(pet);
-        pets = PetManagementService.GetPets();
+        PetManagementService.HidePet(pet); // Hide the pet
+        pets = PetManagementService.GetPets(); // Reload pet list
     }
 }

@@ -10,12 +10,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
-//builder.Services.AddDbContext<AppDbContext>(options =>
-//    options.UseSqlite("Data Source=Data/AnniesCatSanctuary.db"));
-builder.Services.AddScoped<PetManagementService>();
-builder.Services.AddScoped<PetFavoritesService>();
-builder.Services.AddSingleton<PetManagementService>();
-builder.Services.AddSingleton<PetFavoritesService>();
+builder.Services.AddSingleton<PetManagementService>();  // Register pet management service
+builder.Services.AddSingleton<PetFavoritesService>();   // Register pet favorites service
+
+builder.Services.AddSingleton<UserProfileService>();
+builder.Services.AddScoped<UserProfileStorageService>();
 
 // Optional: Add HttpClient if required, for example:
 builder.Services.AddHttpClient("DefaultClient", client =>

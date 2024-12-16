@@ -6,14 +6,16 @@
 
 <h3>Available Pets</h3>
 
-<ul>
-    @foreach (var pet in pets.Where(p => !p.IsHidden))
+<ul class="pet-listing">
+    @foreach (var pet in pets.Where(p => !p.IsHidden)) // Only show pets that are not hidden
     {
         <li>
-            <strong>@pet.Name</strong> - @pet.Type
-            <button @onclick="() => ToggleFavorite(pet.Name)">
-                @(favoritePets.Contains(pet.Name) ? "Unfavorite" : "Favorite")
-            </button>
+            <div class="card">
+                <h1>@pet.Name</h1>
+                <p class="title">Type: @pet.Type</p>
+                <p>@pet.Description</p>
+                <button @onclick="() => ToggleFavorite(pet.Name)">@(favoritePets.Contains(pet.Name) ? "Unfavorite" : "Favorite")</button>
+            </div>
         </li>
     }
 </ul>
@@ -24,13 +26,13 @@
 
     protected override void OnInitialized()
     {
-        pets = PetManagementService.GetPets();
-        favoritePets = PetFavoritesService.GetFavoritePets();
+        pets = PetManagementService.GetPets(); // Load pets from in-memory service
+        favoritePets = PetFavoritesService.GetFavoritePets(); // Load favorite pets from in-memory service
     }
 
     private void ToggleFavorite(string petName)
     {
-        PetFavoritesService.ToggleFavorite(petName);
-        favoritePets = PetFavoritesService.GetFavoritePets();
+        PetFavoritesService.ToggleFavorite(petName); // Toggle favorite status
+        favoritePets = PetFavoritesService.GetFavoritePets(); // Reload favorite pets
     }
 }

@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Whiskers",
+    "Type": "Cat",
+    "Description": "A playful cat.",
+    "IsHidden": false
+  },
+  {
+    "Name": "Fluffy",
+    "Type": "Cat",
+    "Description": "A fluffy cat.",
+    "IsHidden": true
+  }
+]
