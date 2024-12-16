@@ -2,6 +2,7 @@ using AnniesCatSanctuary;
 using AnniesCatSanctuary.Components;
 using AnniesCatSanctuary.Services;
 using Microsoft.AspNetCore.Components.Web;
+using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,8 +10,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
-builder.Services.AddScoped<UserProfileService>();
-builder.Services.AddScoped<UserProfileStorageService>();
+//builder.Services.AddDbContext<AppDbContext>(options =>
+//    options.UseSqlite("Data Source=Data/AnniesCatSanctuary.db"));
+builder.Services.AddScoped<PetManagementService>();
+builder.Services.AddScoped<PetFavoritesService>();
 builder.Services.AddSingleton<PetManagementService>();
 builder.Services.AddSingleton<PetFavoritesService>();
 

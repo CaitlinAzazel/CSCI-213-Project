@@ -1,25 +1,25 @@
-﻿namespace AnniesCatSanctuary.Services
+﻿using System.Collections.Generic;
+
+namespace AnniesCatSanctuary.Services
 {
     public class PetFavoritesService
     {
-        private List<string> favoritePetNames = new List<string>(); // Store names of favorite pets
+        private List<string> favoritePetNames = new List<string>();
 
-        // Get the list of favorite pet names
         public List<string> GetFavoritePets()
         {
             return favoritePetNames;
         }
 
-        // Toggle favorite status for a pet
         public void ToggleFavorite(string petName)
         {
             if (favoritePetNames.Contains(petName))
             {
-                favoritePetNames.Remove(petName);  // Remove from favorites
+                favoritePetNames.Remove(petName);
             }
             else
             {
-                favoritePetNames.Add(petName);  // Add to favorites
+                favoritePetNames.Add(petName);
             }
         }
     }

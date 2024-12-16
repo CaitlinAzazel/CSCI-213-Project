@@ -1,46 +1,57 @@
 ﻿using AnniesCatSanctuary.Data;
-using Microsoft.JSInterop;
-using System.Text.Json;
+using Microsoft.EntityFrameworkCore;
+using System;
 
-public class PetManagementService
+namespace AnniesCatSanctuary.Services
 {
-    private List<Pet> pets = new List<Pet>();  // Stores pets in memory
-
-    // Get the list of all pets
-    public List<Pet> GetPets()
+    public class PetManagementService
     {
-        return pets;
-    }
+        private readonly AppDbContext _context;
 
-    // Add a new pet to the list
-    public void AddPet(Pet newPet)
-    {
-        pets.Add(newPet);
-    }
-
-    // Remove a pet from the list
-    public void RemovePet(Pet petToRemove)
-    {
-        pets.Remove(petToRemove);
-    }
-
-    // Hide a pet
-    public void HidePet(Pet petToHide)
-    {
-        var pet = pets.FirstOrDefault(p => p.Name == petToHide.Name);
-        if (pet != null)
+        public PetManagementService(AppDbContext context)
         {
-            pet.IsHidden = true; // Mark the pet as hidden
+            _context = context;
         }
-    }
 
-    // Unhide a pet
-    public void UnhidePet(Pet petToUnhide)
-    {
-        var pet = pets.FirstOrDefault(p => p.Name == petToUnhide.Name);
-        if (pet != null)
+        public List<Pet> GetPets()
         {
-            pet.IsHidden = false; // Mark the pet as visible again
+            return _context.Pets.ToList();
+        }
+
+        public void AddPet(Pet newPet)
+        {
+            _context.Pets.Add(newPet);
+            _context.SaveChanges();
+        }
+
+        public void RemovePet(Pet petToRemove)
+        {
+            var pet = _context.Pets.Find(petToRemove.Id);
+            if (pet != null)
+            {
+                _context.Pets.Remove(pet);
+                _context.SaveChanges();
+            }
+        }
+
+        public void HidePet(Pet petToHide)
+        {
+            var pet = _context.Pets.Find(petToHide.Id);
+            if (pet != null)
+            {
+                pet.IsHidden = true;
+                _context.SaveChanges();
+            }
+        }
+
+        public void UnhidePet(Pet petToUnhide)
+        {
+            var pet = _context.Pets.Find(petToUnhide.Id);
+            if (pet != null)
+            {
+                pet.IsHidden = false;
+                _context.SaveChanges();
+            }
         }
     }
 }

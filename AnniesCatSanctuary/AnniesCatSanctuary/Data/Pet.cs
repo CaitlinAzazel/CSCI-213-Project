@@ -2,10 +2,10 @@
 {
     public class Pet
     {
+        public int Id { get; set; } // Unique identifier
         public string Name { get; set; }
-        public string Type { get; set; } // For example: Dog, Cat, etc.
+        public string Type { get; set; }
         public string Description { get; set; }
-        public bool IsFavorite { get; set; } // Will be used to mark a pet as a favorite
-        public bool IsHidden { get; set; } // Add IsHidden property
+        public bool IsHidden { get; set; } = false; // Default visibility
     }
 }
