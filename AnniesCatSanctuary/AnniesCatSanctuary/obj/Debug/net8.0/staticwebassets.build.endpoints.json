@@ -3,6 +3,51 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "AnniesCatSanctuary.6x5naxspwq.styles.css",
+      "AssetFile": "AnniesCatSanctuary.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RhQOkNV/KTzyF81TmnZ6f3tYocprBct0ZyKD0u8XoMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 17:22:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6x5naxspwq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RhQOkNV/KTzyF81TmnZ6f3tYocprBct0ZyKD0u8XoMw="
+        },
+        {
+          "Name": "label",
+          "Value": "AnniesCatSanctuary.styles.css"
+        }
+      ]
+    },
+    {
       "Route": "AnniesCatSanctuary.styles.css",
       "AssetFile": "AnniesCatSanctuary.styles.css",
       "Selectors": [],
@@ -17,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12539"
+          "Value": "13507"
         },
         {
           "Name": "Content-Type",
@@ -25,62 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=\""
+          "Value": "\"RhQOkNV/KTzyF81TmnZ6f3tYocprBct0ZyKD0u8XoMw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 21:36:11 GMT"
+          "Value": "Tue, 17 Dec 2024 17:22:11 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs="
-        }
-      ]
-    },
-    {
-      "Route": "AnniesCatSanctuary.v77k8aep1q.styles.css",
-      "AssetFile": "AnniesCatSanctuary.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12539"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 21:36:11 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v77k8aep1q"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dQ4KI7gP3t2gY9vhZo3ZRKB1t4OGXiNXtIeQZhJ2HWs="
-        },
-        {
-          "Name": "label",
-          "Value": "AnniesCatSanctuary.styles.css"
+          "Value": "sha256-RhQOkNV/KTzyF81TmnZ6f3tYocprBct0ZyKD0u8XoMw="
         }
       ]
     },
